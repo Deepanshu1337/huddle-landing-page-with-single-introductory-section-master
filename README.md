@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Deepanshu1337/huddle-landing-page-with-single-introductory-section-master)
-- Live Site URL: [Add live site URL here](https://deepanshu1337.github.io/huddle-landing-page-with-single-introductory-section-master/)
+- Solution URL: [Github repository](https://github.com/Deepanshu1337/huddle-landing-page-with-single-introductory-section-master)
+- Live Site URL: [Huddle lending page](https://deepanshu1337.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
 
