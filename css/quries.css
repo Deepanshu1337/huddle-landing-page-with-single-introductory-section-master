@@ -1,0 +1,39 @@
+@media screen and (max-width: 1250px) {
+    .container {
+        max-width: 96rem;
+    }
+}
+
+@media screen and (max-width:1040px) {
+    .logo {
+        margin: 3rem auto;
+    }
+
+    .grid-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .grid-layout img {
+        width: 70%;
+        margin: 2rem auto;
+    }
+
+    .content {
+        text-align: center;
+        max-width: 70%;
+        margin: 2rem auto;
+    }
+
+    .button {
+        margin: 0 auto;
+        padding: 1.2rem 7.2rem;
+    }
+
+    .icon-container {
+        justify-content: center;
+        margin: 2rem auto;
+    }
+    body{
+        background-image: url("../images/bg-mobile.svg");
+    }
+}
